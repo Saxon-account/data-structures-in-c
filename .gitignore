@@ -1,1 +1,8 @@
-# placeholder
+*.o
+tests/test_sets_array_sorted
+tests/test_sets_array_unsorted
+tests/test_table_strings
+tests/test_table_generic
+tests/test_list
+tests/test_pqueue
+tests/test_table_set
